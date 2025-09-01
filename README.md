@@ -18,8 +18,8 @@ The visualization helps us understand which age groups dominate the dataset, whi
 ## 📊 Visualization
 
 ### Histogram: Customer Age Distribution
-![Age Histogram](<img width="1130" height="747" alt="Screenshot 2025-08-30 163323" src="https://github.com/user-attachments/assets/2f9267ad-038e-46b7-807b-745fdc3de795" />
-)
+![Age Histogram(]<img width="1130" height="747" alt="Screenshot 2025-08-30 163323" src="https://github.com/user-attachments/assets/3bf500a6-450b-459e-bef0-11ab62ac1ffa" />)
+
 
 - **X-Axis:** Age bins (0–20, 21–40, 41–60)  
 - **Y-Axis:** Count of customers within each age range  
